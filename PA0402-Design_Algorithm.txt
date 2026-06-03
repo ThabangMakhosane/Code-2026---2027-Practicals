@@ -1,0 +1,20 @@
+ALGORITHM FOR A CALCULATOR
+
+Step 1 - Select a number
+Step 2 - Select an operation (+,-,*,/)
+Step 3 - Select another number
+Step 4 - Calculate
+Step 5 - Give the output
+
+
+ASCENDING number [20,1,25,30,22,50]
+
+Step 1 - Select the first 2 numbers (20 and 1)
+Step 2 - Compare the 2 numbers and see which one is bigger
+Step 3 - The smaller number goes first while the bigger number goes second
+Step 4 - Select 2 and number 3 on the list
+Step 5 - Compare the 2 numbers
+Step 6 - If number3 < number2 you switch the positions of the number
+Step 7- Compare the 3 numbers to see which is the smallest
+Step 8 - Repeat steps until all the numbers are in chronological order
+Step 9 - Display the numbers
