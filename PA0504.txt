@@ -1,0 +1,1 @@
+An interpreter is an active element of a computer system that performs computations by sequentially executing program instructions based on an instruction reference, repertoire, and environment reference.
